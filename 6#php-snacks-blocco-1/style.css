@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.section {
+    height: 50%;
+}
+
+.grey {
+    background-color: grey;
+}
+.green {
+    background-color: green;
+}
